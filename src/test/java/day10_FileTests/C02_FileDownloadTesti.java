@@ -3,8 +3,6 @@ package day10_FileTests;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import utilities.ReusableMethods;
-import utilities.TestBase;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;

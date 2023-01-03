@@ -3,7 +3,6 @@ package day11_seleniumwaits_cookies;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.Cookie;
-import utilities.TestBase;
 
 import java.util.Set;
 
